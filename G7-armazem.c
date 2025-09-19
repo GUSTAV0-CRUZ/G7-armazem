@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<string.h>
 #include<locale.h>
-#include<stdbool.h>
 
 
 /*==================================================  OBJETOS  =============================================================*/
@@ -257,10 +256,10 @@ int main() {
 			printf("Organize a lista de acordo com o numero escolhido\n");
 			printf(" ________________________________________\n");
 			printf(" |            Tabela de Opções          |\n");
-			printf(" | [1]---Preço em ordem crescente---[1] |\n");
-			printf(" | [2]-Preço em ordem descrescente--[1] |\n");      /*apenas para algo visual no console*/
-			printf(" | [3]- Código em ordem crescente---[1] |\n");
-			printf(" | [4]-Código em ordem descrescente-[1] |\n");
+			printf(" | [1]-Preço em ordem descrescente--[1] |\n");
+			printf(" | [2]---Preço em ordem crescente---[2] |\n");      /*apenas para algo visual no console*/
+			printf(" | [3]-Código em ordem descrescente-[3] |\n");
+			printf(" | [4]- Código em ordem crescente---[4] |\n");
 			printf(" |______________________________________|\n");
 			printf("Adicione uma opção\n");
 			escolhaArmazenada = filtroOpcao(4);   /*armazena o valor da função para usar nas condições*/
