@@ -1,4 +1,4 @@
-# 📦 G7-Armazém | Demonstração de Bubble Sort em C
+# 📦 G7-Armazém 
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Algorithm](https://img.shields.io/badge/Algorithm-Bubble%20Sort-orange.svg)
